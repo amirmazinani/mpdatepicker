@@ -1,6 +1,6 @@
 # mpdatepicker
 
-Materialize Persian Date and time picker by A1Gard 4xmen.ir
+Free and Open Source Materialize Persian Date and time picker by A1Gard 4xmen.ir
 
 ## installation
 
